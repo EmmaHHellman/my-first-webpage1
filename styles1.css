@@ -1,0 +1,28 @@
+h1 {
+  color: orange;
+  text-align: center;
+  border: 3px dashed yellow;
+}
+
+h2 {
+  font-size: 25px;
+  font-style: italic;
+  text-align: center;
+}
+
+p {
+  font-family: Helvetica;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 30px;
+}
+
+img {
+  border: 5px solid red;
+}
+
+html {
+  background-color: green;
+}
